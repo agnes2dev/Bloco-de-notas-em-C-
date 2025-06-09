@@ -30,7 +30,7 @@ Bloco-de-notas-em-C# é uma ferramenta poderosa para desenvolvedores, projetada 
 
 --- 
 
-### Por que usar o Bloco-de-notas-em-C#?
+### Por que usar o Bloco de notas em C#?
 
 O projeto simplifica o gerenciamento de dados enquanto garante uma experiência segura e de interface amigável. Os principais recursos são:
 
@@ -42,9 +42,9 @@ O projeto simplifica o gerenciamento de dados enquanto garante uma experiência 
 
 ---
 
-### #Primeiros-passos
+### Primeiros passos
 
-#pré-requisitos
+pré-requisitos
 
 Esse projeto requer as seguintes dependências: 
 
@@ -53,7 +53,7 @@ Esse projeto requer as seguintes dependências:
 - .NET SDK
 - Visual Studio
   
-  ### #Instalação
+  ### Instalação
 
   1. **Clone o repositório:**
 >git clone https://github.com/agnes2dev/Bloco-de-notas-em-C-
