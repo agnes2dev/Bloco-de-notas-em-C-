@@ -6,14 +6,15 @@ Dê poder às suas ideias com gerenciamento de notas sem esforço
 ![Linguagem principal](https://img.shields.io/badge/C%23-100%25-blue)
 ![Linguagens usadas](https://img.shields.io/badge/Linguagens-1-blue)
 
--- 
+# 
+
 > Construído com as seguintes ferramentas e tecnologias:
 
 ![Markdown](https://img.shields.io/badge/Markdown-%23000000.svg?style=flat&logo=markdown&logoColor=white)
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
---
+#
 
 ## 📚 Tabela de Conteúdos
 - [Visão Geral](#visão-geral)
