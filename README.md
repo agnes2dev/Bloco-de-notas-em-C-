@@ -71,8 +71,7 @@ Esse projeto requer as seguintes dependências:
    dotnet restore
    ```
 
-```markdown
-### 🛠️ Uso
+### Uso
 
 Para iniciar o projeto, utilize o seguinte comando:
 
@@ -88,9 +87,6 @@ O Bloco de Notas em C# utiliza a estrutura de testes **{test_framework}**. Para 
 
 ```bash
 dotnet test
-```
-
----
 ```
 
 ---
