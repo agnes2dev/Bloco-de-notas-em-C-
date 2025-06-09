@@ -1,12 +1,10 @@
-# BLOCO DE NOTAS EM C#
+# 📝 BLOCO DE NOTAS EM C#
 
-Dê poder às suas ideias com gerenciamento de notas sem esforço
+Dê poder às suas ideias com gerenciamento de notas sem esforço!
 
 ![GitHub last commit](https://img.shields.io/github/last-commit/agnes2dev/Bloco?label=%C3%BAltimo%20commit)
 ![Linguagem principal](https://img.shields.io/badge/C%23-100%25-blue)
 ![Linguagens usadas](https://img.shields.io/badge/Linguagens-1-blue)
-
-
 
 > Construído com as seguintes ferramentas e tecnologias:
 
@@ -14,7 +12,7 @@ Dê poder às suas ideias com gerenciamento de notas sem esforço
 ![NuGet](https://img.shields.io/badge/NuGet-004880?style=flat&logo=nuget&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white)
 
-#
+---
 
 ## 📚 Tabela de Conteúdos
 - [Visão Geral](#visão-geral)
@@ -24,49 +22,75 @@ Dê poder às suas ideias com gerenciamento de notas sem esforço
 - [Uso](#uso)
 - [Testes](#testes)
 
+---
 
+## 🌟 Visão Geral
 
-## #Visão-Geral
+O Bloco de Notas em C# é uma ferramenta poderosa para desenvolvedores, projetada para simplificar o gerenciamento de notas com uma aplicação completa de CRUD.
 
-Bloco de notas em C# é uma ferramenta poderosa para desenvolvedores, projetada para simplificar o gerenciamento de notas com uma aplicação completa de CRUD.
+---
 
-# 
-
-## Por que usar o Bloco de notas em C#?
+## 💡 Por que usar o Bloco de Notas em C#?
 
 O projeto simplifica o gerenciamento de dados enquanto garante uma experiência segura e de interface amigável. Os principais recursos são:
 
-- **CRUD Completo**: Crie, leia, atualize e exclua suas notas com facilidade.
-- **Autenticação de Usuário**: Protege os dados com um sistema de login seguro.
-- **Interface Intuitiva**: Design amigável para uma experiência fluida.
-- **Tratamento de Erros Robusto**: Melhor interação e integridade dos dados.
-- **Segurança de Senhas**: Armazenamento seguro com hashing.
+- **CRUD Completo**: Crie, leia, atualize e exclua suas notas com facilidade. ✍️
+- **Autenticação de Usuário**: Protege os dados com um sistema de login seguro. 🔒
+- **Interface Intuitiva**: Design amigável para uma experiência fluida. 🎨
+- **Tratamento de Erros Robusto**: Melhor interação e integridade dos dados. ⚙️
+- **Segurança de Senhas**: Armazenamento seguro com hashing. 🔑
 
---
+---
 
-# Primeiros passos
+## 🚀 Primeiros Passos
 
-## Pré-requisitos
+### 📋 Pré-requisitos
 
 Esse projeto requer as seguintes dependências: 
 
-- Linguagem: C#
-- Gerenciador de Pacotes: Nuget
-- .NET SDK
-- Visual Studio
+- Linguagem: C# 
+- Gerenciador de Pacotes: NuGet 
+- .NET SDK 
+- Visual Studio 
 
+### 🛠️ Instalação
 
-  ## Instalação
+1. **Clone o repositório:**
+   ```bash
+   git clone https://github.com/agnes2dev/Bloco-de-notas-em-C-
+   ```
 
-  1. **Clone o repositório:**
-  > git clone https://github.com/agnes2dev/Bloco-de-notas-em-C-
-   
-  2. **Navegue até o diretório do projeto:**
-  > cd Bloco-de-notas-em-C-
+2. **Navegue até o diretório do projeto:**
+   ```bash
+   cd Bloco-de-notas-em-C-
+   ```
 
-  3. **Instale as dependências:**
+3. **Instale as dependências:**
+   Usando o NuGet:
+   ```bash
+   dotnet restore
+   ```
 
-  Usando o nuget:
-  >dotnet restore
-     
-  
+```markdown
+### 🛠️ Uso
+
+Para iniciar o projeto, utilize o seguinte comando:
+
+```bash
+dotnet run
+```
+
+---
+
+### 🧪 Testes
+
+O Bloco de Notas em C# utiliza a estrutura de testes **{test_framework}**. Para executar o conjunto de testes, utilize o comando:
+
+```bash
+dotnet test
+```
+
+---
+```
+
+---
