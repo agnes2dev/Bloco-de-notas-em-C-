@@ -95,19 +95,19 @@ dotnet test
 ### Protótipo
 
 - Tela de Inicialização do Sistema
-![Tela de início](Captura de tela 2025-06-02 003104.png)
+![Tela de início](crud_completo/crud_completo\protótipos/Tela_inicial.png)
 
 - Tela de Login
-![Tela de Login](protótipos\Captura de tela 2025-06-02 003207.png)
+![Tela de Login](crud_completo/protótipos/Tela_login.png)
 
 - Tela de Criação de notas
-![Tela criar nota](protótipos\Captura de tela 2025-06-02 003335.png)
+![Tela criar nota](crud_completo/protótipos/Tela_criar.png)
 
 - Tela de exclusão de notas
-![Tela excluir nota](protótipos\Captura de tela 2025-06-02 003430.png)
+![Tela excluir nota](crud_completo/crud_completo/protótipos/Tela_excluir.png)
 
 - Tela de aviso
-![Tela aviso exclusão da nota](protótipos\Captura de tela 2025-06-02 003616.png)
+![Tela aviso exclusão da nota](crud_completo/protótipos/Tela_aviso.png)
 
 
 
