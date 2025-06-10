@@ -95,7 +95,7 @@ dotnet test
 ### Protótipo
 
 - Tela de Inicialização do Sistema
-![Tela de início](crud_completo/crud_completo\protótipos/Tela_inicial.png)
+![Tela de início](protótipos/Tela_inicial.png)
 
 - Tela de Login
 ![Tela de Login](crud_completo/protótipos/Tela_login.png)
