@@ -90,3 +90,24 @@ dotnet test
 ```
 
 ---
+
+
+### Protótipo
+
+- Tela de Inicialização do Sistema
+![Tela de início](protótipos/Tela_inicial.png)
+
+- Tela de Login
+![Tela de Login](crud_completo/protótipos/Tela_login.png)
+
+- Tela de Criação de notas
+![Tela criar nota](crud_completo/protótipos/Tela_criar.png)
+
+- Tela de exclusão de notas
+![Tela excluir nota](crud_completo/crud_completo/protótipos/Tela_excluir.png)
+
+- Tela de aviso
+![Tela aviso exclusão da nota](crud_completo/protótipos/Tela_aviso.png)
+
+
+
